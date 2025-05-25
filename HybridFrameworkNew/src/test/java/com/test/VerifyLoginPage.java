@@ -38,6 +38,7 @@ public class VerifyLoginPage extends Base {
 		}
 		else {
 			System.out.println("Test case is failed");
+			System.out.println("123");
 		}
 		
 
